@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<all>
+	<n1 type="dict">
+		<date type="str">Sun, 20 Feb 2022 22:50:43 GMT</date>
+		<id type="int">1</id>
+		<opponent_id type="int">2</opponent_id>
+		<opponent_score type="int">180</opponent_score>
+		<team_id type="int">1</team_id>
+		<team_score type="int">168</team_score>
+	</n1>
+	<n2 type="dict">
+		<date type="str">Sun, 20 Feb 2022 22:50:44 GMT</date>
+		<id type="int">2</id>
+		<opponent_id type="int">3</opponent_id>
+		<opponent_score type="int">189</opponent_score>
+		<team_id type="int">1</team_id>
+		<team_score type="int">153</team_score>
+	</n2>
+	<n3 type="dict">
+		<date type="str">Sun, 20 Feb 2022 22:50:44 GMT</date>
+		<id type="int">3</id>
+		<opponent_id type="int">4</opponent_id>
+		<opponent_score type="int">193</opponent_score>
+		<team_id type="int">1</team_id>
+		<team_score type="int">152</team_score>
+	</n3>
+	<n4 type="dict">
+		<date type="str">Sun, 20 Feb 2022 22:50:44 GMT</date>
+		<id type="int">4</id>
+		<opponent_id type="int">2</opponent_id>
+		<opponent_score type="int">187</opponent_score>
+		<team_id type="int">1</team_id>
+		<team_score type="int">179</team_score>
+	</n4>
+	<n5 type="dict">
+		<date type="str">Sun, 20 Feb 2022 22:50:44 GMT</date>
+		<id type="int">7</id>
+		<opponent_id type="int">3</opponent_id>
+		<opponent_score type="int">185</opponent_score>
+		<team_id type="int">1</team_id>
+		<team_score type="int">153</team_score>
+	</n5>
+	<n6 type="dict">
+		<date type="str">Sun, 20 Feb 2022 22:50:45 GMT</date>
+		<id type="int">10</id>
+		<opponent_id type="int">4</opponent_id>
+		<opponent_score type="int">194</opponent_score>
+		<team_id type="int">1</team_id>
+		<team_score type="int">167</team_score>
+	</n6>
+</all>
